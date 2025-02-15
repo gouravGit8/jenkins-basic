@@ -6,6 +6,7 @@ public class MainClass {
 
 		System.out.println("Jenkins basic program");
 		System.out.println(" Date :"+new Date());
+		System.out.println(" End program @@");
 
 	}
 
